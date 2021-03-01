@@ -2,6 +2,8 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+The aim of the project is to identify the people who earns more than $50,000 and can be possible donors for the CharityML organisation using the U.S Census data. 
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
